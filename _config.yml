@@ -26,6 +26,7 @@ topics:
 
   - name: Ballerina
     web_url: https://github.com/topics/ballerina
+    image_url: https://avatars3.githubusercontent.com/u/34733518
 
   - name: kubernetes
     web_url: https://github.com/topics/kubernetes
