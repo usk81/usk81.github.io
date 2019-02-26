@@ -18,7 +18,7 @@ defaults:
 topics:
   - name: Go
     web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
+    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
 
   - name: PHP
     web_url: https://github.com/topics/php
@@ -29,11 +29,11 @@ topics:
 
   - name: kubernetes
     web_url: https://github.com/topics/kubernetes
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kubernetes/kubernetes.png
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
   - name: OpenCV
     web_url: https://github.com/topics/opencv
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/opencv/opencv.png
+    image_url: https://raw.githubusercontent.com/github/explore/433c866c69205a7a46dc73d8b4bbc7c12a6638f6/topics/opencv/opencv.png
 
   - name: Machine learning
     web_url: https://github.com/topics/machine-learning
