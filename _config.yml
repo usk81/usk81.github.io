@@ -16,15 +16,27 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Go
+    web_url: https://github.com/topics/go
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
 
-  - name: Web design
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Ballerina
+    web_url: https://github.com/topics/ballerina
+
+  - name: kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kubernetes/kubernetes.png
+
+  - name: OpenCV
+    web_url: https://github.com/topics/opencv
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/opencv/opencv.png
+
+  - name: Machine learning
+    web_url: https://github.com/topics/machine-learning
 
 repositories:
   - generic
